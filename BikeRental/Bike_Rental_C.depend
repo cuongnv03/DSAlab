@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655270847 source:c:\users\adones\downloads\c projects\bike_rental_c\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
