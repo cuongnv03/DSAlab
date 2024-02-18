@@ -1,2 +1,2 @@
 # DSAlab
-Practice C (or Python) programming using data structures by completing assignments in class Data Structures and Algorithms lab
+Practice C programming using data structures by completing assignments in class Data Structures and Algorithms lab.
